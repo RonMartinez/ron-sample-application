@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "ronSampleApplication",
+    "packageName": "com.nl",
+    "packageFolder": "com/nl",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "fr",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.6.1",
+    "jwtSecretKey": "NmVmMWQwZmUxNjdhYmM0NDMxZTFmYTc3ODgzYTYwZDhjZTAyOWE3ZGIxZTc3MDVlMGYyNmRjNjRjMmE1Njk5ZjJiYWMxNzk2OWZmOGE1YWU2ZTc1ZTE1YmZmNTYzNWNmMTE0Zjc2YWIzNzBkYTgwNTBjZGVkZGViYjM1M2IxNTc="
+  },
+  "git-provider": "GitHub",
+  "git-company": "RonMartinez",
+  "repository-name": "ron-sample-application"
+}
